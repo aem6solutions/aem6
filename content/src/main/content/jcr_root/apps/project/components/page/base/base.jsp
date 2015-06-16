@@ -1,4 +1,4 @@
-<%@include file="/apps/cq-bootcamp/global.jsp" %>
+<%@include file="global.jsp" %>
 <%@page session="false" %>
 
 <cq:include script="clientLibs.jsp"/>

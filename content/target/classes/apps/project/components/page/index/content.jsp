@@ -1,5 +1,5 @@
 <%@ page import="com.aem6solutions.project.core.HelloService" %>
-<%@include file="/libs/foundation/global.jsp" %>
+<%@include file="/apps/project/components/page/base/global.jsp" %>
 <%@page session="false" %>
 
 <div class="clearFix"></div>

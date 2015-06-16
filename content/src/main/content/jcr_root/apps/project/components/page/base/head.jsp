@@ -1,4 +1,4 @@
-<%@include file="/apps/cq-bootcamp/global.jsp" %>
+<%@include file="global.jsp" %>
 <cq:include script="/libs/wcm/core/components/init/init.jsp"/>
 
 <header>

@@ -64,7 +64,12 @@
             <groupId>org.codehaus.groovy</groupId>
             <artifactId>groovy-all</artifactId>
         </dependency>
-    </dependencies>
+		<dependency>
+			<groupId>com.adobe.aem</groupId>
+			<artifactId>aem-api</artifactId>
+			<version>6.0.0.1</version>
+		</dependency>
+	</dependencies>
 
     <!-- ====================================================================== -->
     <!-- B U I L D D E F I N I T I O N -->

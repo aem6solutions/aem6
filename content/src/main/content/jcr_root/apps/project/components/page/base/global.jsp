@@ -14,7 +14,6 @@
         com.day.cq.wcm.api.components.EditContext"
     %>
 <%@ page import="com.day.cq.i18n.I18n" %>
-<%@ page import="com.havells.util.GlobalPageWrapper" %>
 <%@taglib prefix="sling" uri="http://sling.apache.org/taglibs/sling/1.0" %><%
 %><%@taglib prefix="cq" uri="http://www.day.com/taglibs/cq/1.0" %><%
 %><%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %><%

@@ -31,19 +31,6 @@
                                         value="unordered"/>
                             </options>
                         </ltype>
-                    </items>
-                </tab1>
-                <tab2
-                        jcr:primaryType="nt:unstructured"
-                        title="Sample Tab 2"
-                        xtype="panel">
-                    <items jcr:primaryType="cq:WidgetCollection">
-                        <inherit
-                                jcr:primaryType="cq:Widget"
-                                path="/apps/project/components/content/dialogInheritance/dialog/items/tabs/items/tab1/items/ltype.infinity.json"
-                                name="./inherit"
-                                xtype="cqinclude">
-                        </inherit>
                         <pages
                                 jcr:primaryType="cq:Widget"
                                 fieldDescription="Demo Text Field"
@@ -52,7 +39,7 @@
                                 xtype="textfield">
                         </pages>
                     </items>
-                </tab2>
+                </tab1>
             </items>
         </tabs>
     </items>
